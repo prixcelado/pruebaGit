@@ -86,7 +86,7 @@ El sistema contempla, entre otras, las siguientes funcionalidades:
 - Encinas Priscila Ayelen
 - Gonzalez Avril Araceli
 - Fernández Zalazar Jeremías Ezequiel
-- Belen Echaile
+- Belen Chaile
 
 ## Tecnologías y herramientas
 
