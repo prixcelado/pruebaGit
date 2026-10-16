@@ -2,7 +2,7 @@
 
 <img src="assets/logo-verde-encanto.png" alt="Logo Verde Encanto" width="280"/>
 
-# Verde Encanto
+# 🌿 Verde Encanto
 ### Sistema de gestión de ventas, stock y abastecimiento para un vivero y tienda de jardinería
 
 **Proyecto de Base de Datos I · Equipo 15**
@@ -30,13 +30,13 @@
 
 ---
 
-## Descripción
+## 🌱 Descripción del proyecto
 
 Este proyecto consiste en el **diseño, normalización e implementación** de una base de datos para un sistema de gestión comercial de un vivero y tienda de jardinería.
 
 El sistema permite administrar la información relacionada con productos, clientes, proveedores y las operaciones comerciales de compra y venta, incluyendo el control del stock y los métodos de pago.
 
-## Objetivo
+## 🎯 Objetivos
 
 Diseñar una base de datos que permita gestionar de manera organizada y consistente la información de las operaciones comerciales del vivero.
 
@@ -56,7 +56,7 @@ El sistema contempla, entre otras, las siguientes funcionalidades:
 - Registro de los detalles de las operaciones.
 - Generación y conservación de comprobantes.
 
-## Documentación del proyecto
+## 📚 Etapas del proyecto
 
 | Etapa | Descripción | Documento |
 |:-----:|-------------|-----------|
@@ -80,15 +80,13 @@ El sistema contempla, entre otras, las siguientes funcionalidades:
 |:----:|-------------|---------|
 | DDL | Creación de la estructura de la base de datos | [script.sql](SQL/ddl/script.sql) |
 
-## Integrantes
+## 👥 Integrantes
 
-| Nombre y apellido |
-|-------------------|
-| Luciana Carballo |
-|  |
-|  |
-|  |
-|  |
+- Craballo Jara Luciana Abril
+- Encinas Priscila Ayelen
+- Gonzalez Avril Araceli
+- Fernández Zalazar Jeremías Ezequiel
+- Belen Echaile
 
 ## Tecnologías y herramientas
 
